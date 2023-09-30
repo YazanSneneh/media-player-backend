@@ -11,6 +11,16 @@
 npm install
 ```
 
+4. Create `.env` in server root folder and put required keys
+```env
+PORT=
+DB_USER=
+DB_PASSWORD=
+DB_NAME=
+DB_HOST=
+DB_PORT=
+```
+
 ### Compile and run
 
 1. compile typescript:
