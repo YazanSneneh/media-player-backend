@@ -1,9 +1,10 @@
 # Music Player Backend
 
-
+## Prerequisite
+* You need postgres to be installed on your server.
 ## Project Setup
 1. clone repo.
-2. cd to root of the project
+2. cd to root of the project.
 
 3. install required packages. 
 ```sh
